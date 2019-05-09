@@ -1,0 +1,27 @@
+2018-07-02_14:48 Msg: 'I2C write failed' TEMP_SENS ERR, disabling
+2018-07-02_14:50 Msg: i2c error returned s < 0 on recieve CCS811 ERR, disabling
+2018-07-02_14:53 Msg: i2c error returned s < 0 on recieve ARDUINO ERR, disabling
+2018-07-02_15:03 Msg: 'I2C write failed' TEMP_SENS ERR, disabling
+2018-07-02_15:04 Msg: unpack requires a bytes object of length 16 ARDUINO ERR, disabling
+2018-07-02_15:08 Msg: i2c error returned s < 0 on recieve ARDUINO ERR, disabling
+2018-07-02_15:08 Msg: i2c error returned s < 0 on recieve CCS811 ERR, disabling
+2018-07-02_15:25 Msg: unpack requires a bytes object of length 16 CCS811 ERR, disabling
+2018-07-02_15:27 Msg: unpack requires a bytes object of length 16 ARDUINO ERR, disabling
+2018-07-02_15:29 Msg: 'I2C write failed' TEMP_SENS ERR, disabling
+2018-07-02_15:35 Msg: unpack requires a bytes object of length 16 ARDUINO ERR, disabling
+2018-07-02_15:37 Msg: 'I2C write failed' TEMP_SENS ERR, disabling
+2018-07-02_15:41 Msg: unpack requires a bytes object of length 16 ARDUINO ERR, disabling
+2018-07-02_15:44 Msg: 'I2C write failed' TEMP_SENS ERR, disabling
+2018-07-02_15:49 Msg: i2c error returned s < 0 on recieve CCS811 ERR, disabling
+2018-07-02_15:49 Msg: Shutting down due to low battery
+2018-07-02_15:55 Msg: 'I2C write failed' TEMP_SENS ERR, disabling
+2018-07-02_16:04 Msg: 'I2C write failed' TEMP_SENS ERR, disabling
+2018-07-02_16:05 Msg: unpack requires a bytes object of length 16 ARDUINO ERR, disabling
+2018-07-02_16:09 Msg: unpack requires a bytes object of length 16 ARDUINO ERR, disabling
+2018-07-02_16:10 Msg: 'I2C write failed' TEMP_SENS ERR, disabling
+2018-07-02_16:17 Msg: i2c error returned s < 0 on recieve ARDUINO ERR, disabling
+2018-07-02_16:17 Msg: i2c error returned s < 0 on recieve CCS811 ERR, disabling
+2018-07-04_16:33 Msg: unpack requires a bytes object of length 16 ARDUINO ERR, disabling
+2018-08-15_11:27 Msg: 'NoneType' object has no attribute 'returnCount' TEMP_SENS ERR, disabling
+2018-08-15_11:33 Msg: global name 'ccs811_available' is not defined TEMP_SENS ERR, disabling
+2018-08-15_11:34 Msg: global name 'ccs811_available' is not defined TEMP_SENS ERR, disabling
